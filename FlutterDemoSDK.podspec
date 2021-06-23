@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "xiezhenfeng" => "xiezhenfeng@58.com" }
 
-  spec.source       = { :git => "https://github.com/GG-beyond/FlutterDemoSDK", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/GG-beyond/FlutterDemoSDK"}
 
   spec.vendored_frameworks = 'App.xcframework', 'Flutter.xcframework', 'FlutterPluginRegistrant.xcframework', 'shared_preferences.xcframework'
 
