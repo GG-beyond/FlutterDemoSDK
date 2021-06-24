@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FlutterDemoSDK"
-  spec.version      = 0.0.4
+  spec.version      = 0.0.5
   spec.summary      = "flutter 模块的sdk."
   spec.description  = <<-DESC
                     flutter 模块的sdk哈哈哈
